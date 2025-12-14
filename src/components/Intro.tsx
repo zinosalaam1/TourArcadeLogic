@@ -43,7 +43,7 @@ export function Intro({ onStart, onSetPlayerName, onLoadGame }: IntroProps) {
         
         <div className="space-y-4">
           <div className="inline-block px-4 py-2 bg-red-950/30 border border-red-900/50 rounded">
-            <span className="text-red-400">SATURDAY ESCAPE ROOM</span>
+            <span className="text-red-400">SUNDAY's ESCAPE ROOM</span>
           </div>
           
           <h1 className="text-5xl text-red-500">
